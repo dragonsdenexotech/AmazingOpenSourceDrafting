@@ -11,7 +11,7 @@ https://open-aec.com/en/open-cad-studio/
 3. OpenDraft \
 https://github.com/JamesHodgkins/OpenDraft 
 
-4. QCAD \
+4. QCAD (Community Edition) \
 https://www.qcad.org/en/ 
 
 5. CadCraft \
